@@ -1,0 +1,21 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  color: yellow;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  color: purple;
+}
+
+a {
+  font-weight: bold;
+  font-style: italic;
+  color: orange;
+  font-size: 1em;
+  text-shadow: 0px 0px 1px yellow;
+}
